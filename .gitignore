@@ -11,7 +11,7 @@ __pycache__/
 3D_spatial_network.txt
 Data.csv
 Txt_to_Csv.py
-
+Extra/
 # C extensions
 *.so
 

@@ -8,6 +8,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+3D_spatial_network.txt
+Data.csv
+Txt_to_Csv.py
+
 # C extensions
 *.so
 
